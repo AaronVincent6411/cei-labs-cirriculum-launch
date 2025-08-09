@@ -165,3 +165,8 @@
   font-family: SpaceGrotesk;
   src: url('/assets/Fonts/SpaceGrotesk-VariableFont_wght.ttf') format('opentype');
 }
+
+@font-face {
+  font-family: Montserrat;
+  src: url('/assets/Fonts/Montserrat-VariableFont_wght.ttf') format('opentype');
+}
