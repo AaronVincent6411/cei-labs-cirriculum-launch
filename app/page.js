@@ -32,7 +32,7 @@ const Badge = ({ className }) => (
   </svg>
 );
 
-export default function Home() {
+export default function Page() {
   const [showText, setShowText] = useState(false);
   const [showBox, setShowBox] = useState(false); 
   const [showVideo, setShowVideo] = useState(false);  
