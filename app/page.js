@@ -249,7 +249,6 @@ useEffect(() => {
           ${shrinkVideo ? "object-contain border-2 animated-border" : "w-full h-full object-cover"}`}
         src="assets/cei_lab_launch_video.mp4"
         autoPlay
-        muted
         loop
       />
     )}
